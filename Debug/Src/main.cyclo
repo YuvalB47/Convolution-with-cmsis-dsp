@@ -1,0 +1,5 @@
+main.c:39:5:main	1
+main.c:91:6:convolution	4
+main.c:116:6:serial_plot_all	4
+main.c:141:13:pseudo_dly	2
+main.c:146:13:fpu_enable	1
